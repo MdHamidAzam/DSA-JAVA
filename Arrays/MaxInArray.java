@@ -3,13 +3,18 @@ package Arrays;
 public class MaxInArray {
     public static int largestInArray(int arr[]) {
         int largest = Integer.MIN_VALUE;
+        int smallest = Integer.MAX_VALUE;
 
         for(int i=0; i<arr.length; i++) {
             if(arr[i] > largest) {
                 largest = arr[i];
             }
+            if(smallest > arr[i]) {
+                smallest = arr[i];
+            }
         }
 
+        System.out.println("Smallest element in the Array is: "+smallest);
         return largest;
     }
 
