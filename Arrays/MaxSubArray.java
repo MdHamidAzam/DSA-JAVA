@@ -7,11 +7,12 @@ public class MaxSubArray {
 
         for(int i=0; i<arr.length; i++) {
             cs += arr[i];
+
+            ms = Math.max(cs, ms); //for all negative Array
+
             if(cs < 0) {
                 cs = 0;
             }
-
-            ms = Math.max(cs, ms);
         }
 
         System.out.println("The maximum sum of subarray is: "+ms);
