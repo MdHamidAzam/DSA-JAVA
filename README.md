@@ -1,51 +1,54 @@
-# 🚀 DSA in Java
+🚀 Data Structures & Algorithms (Java)
 
-A collection of Data Structures and Algorithms (DSA) problems solved in Java with clean code, explanations, and regular practice.
+Welcome to my Data Structures & Algorithms repository!
 
----
+This repository contains my solutions to DSA problems solved in Java as part of my preparation for coding interviews, internships, and placements.
 
-## 📌 Topics Covered
+📌 Goals
+
+- Strengthen problem-solving skills
+- Master Data Structures & Algorithms
+- Prepare for coding interviews
+- Maintain consistency through daily practice
+
+🛠️ Language
+
+- Java
+
+📂 Topics Covered
 
 - Arrays
 - Strings
-- Linked List
-- Stack
-- Queue
-- Recursion
-- Sorting & Searching
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Heaps
+- Hashing
+- Recursion & Backtracking
+- Searching & Sorting
+- Dynamic Programming
+- Graphs
+- Greedy Algorithms
+- Bit Manipulation
 
----
+📈 Progress
 
-## 📂 Folder Structure
+I regularly update this repository with new problems and optimized solutions as I continue my DSA journey.
 
-- Arrays → Linear Search, Binary Search
-- Strings → String Problems
-- LinkedList → Coming Soon...
-- Stack → Coming Soon...
+🎯 Platforms
 
----
+Problems are solved from platforms such as:
 
-## 💻 Example Problem
+- LeetCode
+- GeeksforGeeks
+- Coding Ninjas
+- HackerRank
+- Other coding platforms
 
-### Linear Search
-- Time Complexity: O(n)
-- Space Complexity: O(1)
+🤝 Connect With Me
 
----
+If you have any suggestions or feedback, feel free to connect with me.
 
-## 🔥 Goal
-
-To master Data Structures and Algorithms and crack top tech interviews.
-
----
-
-## 📈 Progress
-
-- ✅ Arrays Started
-- 🔄 More coming daily...
-
----
-
-## 🤝 Connect with Me
-
-GitHub: https://github.com/MdHamidAzam
+⭐ If you find this repository helpful, don't forget to star it!
