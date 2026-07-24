@@ -49,6 +49,9 @@ Problems are solved from platforms such as:
 
 🤝 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/md-hamid-azam-54aaab309
+- 💻 GitHub: https://github.com/MdHamidAzam
+
 If you have any suggestions or feedback, feel free to connect with me.
 
 ⭐ If you find this repository helpful, don't forget to star it!
