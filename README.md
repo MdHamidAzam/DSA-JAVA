@@ -1,21 +1,21 @@
-🚀 Data Structures & Algorithms (Java)
+# 🚀 Data Structures & Algorithms (Java)
 
-Welcome to my Data Structures & Algorithms repository!
+Welcome to my **Data Structures & Algorithms (DSA)** repository!
 
-This repository contains my solutions to DSA problems solved in Java as part of my preparation for coding interviews, internships, and placements.
+This repository contains my Java solutions to various DSA problems, solved as part of my preparation for coding interviews, internships, and software engineering placements.
 
-📌 Goals
+## 📌 Goals
 
 - Strengthen problem-solving skills
 - Master Data Structures & Algorithms
 - Prepare for coding interviews
-- Maintain consistency through daily practice
+- Build consistency through daily practice
 
-🛠️ Language
+## 🛠️ Language
 
 - Java
 
-📂 Topics Covered
+## 📂 Topics Covered
 
 - Arrays
 - Strings
@@ -33,11 +33,11 @@ This repository contains my solutions to DSA problems solved in Java as part of 
 - Greedy Algorithms
 - Bit Manipulation
 
-📈 Progress
+## 📈 Progress
 
 I regularly update this repository with new problems and optimized solutions as I continue my DSA journey.
 
-🎯 Platforms
+## 🎯 Platforms
 
 Problems are solved from platforms such as:
 
@@ -47,11 +47,11 @@ Problems are solved from platforms such as:
 - HackerRank
 - Other coding platforms
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/md-hamid-azam-54aaab309
-- 💻 GitHub: https://github.com/MdHamidAzam
+- 💼 **LinkedIn:** https://www.linkedin.com/in/md-hamid-azam-54aaab309
+- 💻 **GitHub:** https://github.com/MdHamidAzam
 
 If you have any suggestions or feedback, feel free to connect with me.
 
-⭐ If you find this repository helpful, don't forget to star it!
+⭐ **If you find this repository helpful, don't forget to give it a star!**
