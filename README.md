@@ -1,51 +1,57 @@
-# 🚀 DSA in Java
+# 🚀 Data Structures & Algorithms (Java)
 
-A collection of Data Structures and Algorithms (DSA) problems solved in Java with clean code, explanations, and regular practice.
+Welcome to my **Data Structures & Algorithms (DSA)** repository!
 
----
+This repository contains my Java solutions to various DSA problems, solved as part of my preparation for coding interviews, internships, and software engineering placements.
 
-## 📌 Topics Covered
+## 📌 Goals
+
+- Strengthen problem-solving skills
+- Master Data Structures & Algorithms
+- Prepare for coding interviews
+- Build consistency through daily practice
+
+## 🛠️ Language
+
+- Java
+
+## 📂 Topics Covered
 
 - Arrays
 - Strings
-- Linked List
-- Stack
-- Queue
-- Recursion
-- Sorting & Searching
-
----
-
-## 📂 Folder Structure
-
-- Arrays → Linear Search, Binary Search
-- Strings → String Problems
-- LinkedList → Coming Soon...
-- Stack → Coming Soon...
-
----
-
-## 💻 Example Problem
-
-### Linear Search
-- Time Complexity: O(n)
-- Space Complexity: O(1)
-
----
-
-## 🔥 Goal
-
-To master Data Structures and Algorithms and crack top tech interviews.
-
----
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Heaps
+- Hashing
+- Recursion & Backtracking
+- Searching & Sorting
+- Dynamic Programming
+- Graphs
+- Greedy Algorithms
+- Bit Manipulation
 
 ## 📈 Progress
 
-- ✅ Arrays Started
-- 🔄 More coming daily...
+I regularly update this repository with new problems and optimized solutions as I continue my DSA journey.
 
----
+## 🎯 Platforms
 
-## 🤝 Connect with Me
+Problems are solved from platforms such as:
 
-GitHub: https://github.com/MdHamidAzam
+- LeetCode
+- GeeksforGeeks
+- Coding Ninjas
+- HackerRank
+- Other coding platforms
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/md-hamid-azam-54aaab309
+- 💻 **GitHub:** https://github.com/MdHamidAzam
+
+If you have any suggestions or feedback, feel free to connect with me.
+
+⭐ **If you find this repository helpful, don't forget to give it a star!**
