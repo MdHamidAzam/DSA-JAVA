@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.*;
 
-public class findClosestElements {
+public class FindClosestElements {
     public static List<Integer> findClosestElements(int[] arr, int k, int x) {
 
         List<Integer> ans = new ArrayList<>();
