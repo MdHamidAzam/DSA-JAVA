@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class fourSum {
+public class FourSum {
     public static void fourSum(int[] nums, int target) {
         Arrays.sort(nums);
         int n = nums.length;

@@ -1,6 +1,6 @@
 package Arrays;
 
-public class sortColors {
+public class SortColors {
     public static void sortColors(int[] arr) {
         int n = arr.length;
         int low = 0;

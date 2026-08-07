@@ -1,6 +1,6 @@
 package Arrays;
 
-public class rotateImage {
+public class RotateImage {
     public static void rotateImage(int[][] nums) {
         int m = nums.length;
         int n = nums[0].length;
