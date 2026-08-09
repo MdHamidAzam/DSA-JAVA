@@ -6,8 +6,8 @@ public class RotateImage {
         int n = nums[0].length;
 
         // Transpose the matrix
-        for(int i=0; i<m; i++) {
-            for(int j=0; j<i; j++) {
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < i; j++) {
                 int temp = nums[i][j];
                 nums[i][j] = nums[j][i];
                 nums[j][i] = temp;
@@ -15,9 +15,10 @@ public class RotateImage {
         }
 
         // Reverse each row
-        for(int i=0; i<m; i++) {
-            int a = 0; int b = m-1;
-            while(a < b) {
+        for (int i = 0; i < m; i++) {
+            int a = 0;
+            int b = m - 1;
+            while (a < b) {
                 int temp = nums[i][a];
                 nums[i][a] = nums[i][b];
                 nums[i][b] = temp;
@@ -26,6 +27,7 @@ public class RotateImage {
             }
         }
     }
+
     public static void main(String[] args) {
         int nums[][] = {
                 { 1, 2, 3 },
