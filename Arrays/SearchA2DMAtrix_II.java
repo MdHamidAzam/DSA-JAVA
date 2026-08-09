@@ -27,6 +27,6 @@ public class SearchA2DMAtrix_II {
                 { 10, 13, 14, 17, 24 },
                 { 18, 21, 23, 26, 30 }
         };
-        System.out.println(SearchA2DMAtrix_II(nums,20));
+        System.out.println(SearchA2DMAtrix_II(nums, 20));
     }
 }
