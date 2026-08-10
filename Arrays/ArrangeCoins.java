@@ -5,19 +5,20 @@ public class ArrangeCoins {
         long low = 1;
         long high = n;
 
-        while(low <= high) {
+        while (low <= high) {
             long mid = low + (high - low) / 2;
             long sum = mid * (mid + 1) / 2;
-            if(sum == n) {
-                return (int)mid;
-            } else if(sum < n) {
+            if (sum == n) {
+                return (int) mid;
+            } else if (sum < n) {
                 low = mid + 1;
             } else {
                 high = mid - 1;
             }
         }
-        return (int)high;
+        return (int) high;
     }
+
     public static void main(String[] args) {
         System.out.println(ArrangeCoins(10));
     }
