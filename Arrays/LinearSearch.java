@@ -2,8 +2,8 @@ package Arrays;
 
 public class LinearSearch {
     public static int linearsearch(int[] arr, int target) {
-        for(int i=0; i<arr.length; i++) {
-            if(arr[i] == target) {
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == target) {
                 return i;
             }
         }
@@ -12,11 +12,11 @@ public class LinearSearch {
     }
 
     public static void main(String[] args) {
-        int[] arr = {2, 4, 6, 8, 10, 12, 14, 16};
+        int[] arr = { 2, 4, 6, 8, 10, 12, 14, 16 };
         int target = 20;
 
         int index = linearsearch(arr, target);
-        if(index == -1) {
+        if (index == -1) {
             System.out.println("Target not found!");
         } else {
             System.out.println("Target found at index: " + index);
