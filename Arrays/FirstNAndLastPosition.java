@@ -27,7 +27,7 @@ public class FirstNAndLastPosition {
 
         // Reset Pointer
         low = 0;
-        high = n-1;
+        high = n - 1;
         // Last Position
         int lp = -1;
         while (low <= high) {
@@ -47,7 +47,7 @@ public class FirstNAndLastPosition {
 
         ans[0] = fp;
         ans[1] = lp;
-        System.out.println("["+ans[0]+", "+ans[1]+"]");
+        System.out.println("[" + ans[0] + ", " + ans[1] + "]");
     }
 
     public static void main(String[] args) {
