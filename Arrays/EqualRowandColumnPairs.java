@@ -5,6 +5,7 @@ public class EqualRowandColumnPairs {
         int m = nums.length;
         int n = nums[0].length;
     }
+
     public static void main(String[] args) {
         int[][] nums = {
                 { 3, 2, 1 },

@@ -13,7 +13,8 @@ public class FindPivotIndex {
 
         for (int i = 0; i < n; i++) {
             rightSum = totalSum - leftSum - nums[i];
-            if (rightSum == leftSum) return i;
+            if (rightSum == leftSum)
+                return i;
 
             leftSum += nums[i];
         }
@@ -22,7 +23,7 @@ public class FindPivotIndex {
     }
 
     public static void main(String[] args) {
-        int nums[] = {2,1,-1};
+        int nums[] = { 2, 1, -1 };
         System.out.println(PivotIndex(nums));
     }
 }
