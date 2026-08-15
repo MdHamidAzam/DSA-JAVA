@@ -28,7 +28,6 @@ public class FindGoodDaystoRobtheBank {
         }
 
         return ans;
-
     }
     public static void main(String[] args) {
         int[] security = {5,3,3,3,5,6,2};
