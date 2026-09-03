@@ -14,10 +14,8 @@ public class StringCanBreakAnotherString {
         boolean s2BreakS1 = true;
 
         for (int i = 0; i < a.length; i++) {
-            if (a[i] < b[i])
-                s1BreakS2 = false;
-            if (b[i] < a[i])
-                s2BreakS1 = false;
+            if (a[i] < b[i]) s1BreakS2 = false;
+            if (b[i] < a[i]) s2BreakS1 = false;
         }
 
         return s1BreakS2 || s2BreakS1;
