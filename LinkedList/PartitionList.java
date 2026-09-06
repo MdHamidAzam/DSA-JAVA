@@ -37,7 +37,7 @@ public class PartitionList {
         head.next.next = new ListNode(3);
         head.next.next.next = new ListNode(2);
         head.next.next.next.next = new ListNode(5);
-        head.next.next.next.next.next = new ListNode(5);
+        head.next.next.next.next.next = new ListNode(2);
 
         head = partition(head, 3);
         MiddleOfTheLL.printList(head);
