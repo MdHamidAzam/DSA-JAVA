@@ -10,8 +10,7 @@ public class NumberofSubstringsWithOnly1s {
             if (s.charAt(i) == '1') {
                 count++;
                 answer = (answer + count) % 1000000007;
-            } else
-                count = 0;
+            } else count = 0;
         }
 
         return (int) answer;
