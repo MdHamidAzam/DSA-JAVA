@@ -38,9 +38,7 @@ public class MergeTwoLists {
         headB.next.next.next = new ListNode(75);
         headB.next.next.next.next = new ListNode(80);
 
-        ListNode mergedHead = mergeTwoLists(headA, headB);
-
-        ListNode current = mergedHead;
+        ListNode current = mergeTwoLists(headA, headB);
 
         while (current != null) {
             System.out.print(current.val + " ");
