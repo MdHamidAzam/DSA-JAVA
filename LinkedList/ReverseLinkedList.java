@@ -5,7 +5,6 @@ import LinkedList.DeleteNodeInLL.ListNode;
 public class ReverseLinkedList {
     public static ListNode reverse(ListNode head) {
         ListNode prev = null;
-        ;
         ListNode curr = head;
         ListNode next;
 
