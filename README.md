@@ -35,7 +35,7 @@ The main goal of this repository is to improve my **problem-solving skills, algo
 | Arrays                | ✅      |
 | Strings               | ✅      |
 | Linked Lists          | ✅     |
-| Stack                 | 🔄     |
+| Stack                 | ✅     |
 | Queue                 | 🔄     |
 | HashMap / HashSet     | 🔄     |
 | Binary Search         | 🔄     |
