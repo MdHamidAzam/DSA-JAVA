@@ -1,7 +1,7 @@
 package Arrays;
 
 public class ContainsDuplicate {
-    public static void ContainsDuplicate(int[] arr) {
+    public static void containsDuplicate(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] == arr[j]) {
@@ -15,6 +15,6 @@ public class ContainsDuplicate {
 
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4 };
-        ContainsDuplicate(arr);
+        containsDuplicate(arr);
     }
 }

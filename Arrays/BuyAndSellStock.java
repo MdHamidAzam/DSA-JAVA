@@ -1,7 +1,7 @@
 package Arrays;
 
 public class BuyAndSellStock {
-    public static void BuyAndSellStock(int[] arr) {
+    public static void buyAndSellStock(int[] arr) {
         int min = Integer.MAX_VALUE;
         int mp = Integer.MIN_VALUE;
 
@@ -19,7 +19,7 @@ public class BuyAndSellStock {
 
     public static void main(String[] args) {
         int arr[] = { 7, 1, 5, 3, 6, 4 };
-        BuyAndSellStock(arr);
+        buyAndSellStock(arr);
 
     }
 }

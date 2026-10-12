@@ -1,7 +1,7 @@
 package Arrays;
 
 public class SearchA2DMAtrix_II {
-    public static boolean SearchA2DMAtrix_II(int[][] nums, int target) {
+    public static boolean searchA2DMAtrix_II(int[][] nums, int target) {
         int m = nums.length;
         int n = nums[0].length;
         int i = 0;
@@ -27,6 +27,6 @@ public class SearchA2DMAtrix_II {
                 { 10, 13, 14, 17, 24 },
                 { 18, 21, 23, 26, 30 }
         };
-        System.out.println(SearchA2DMAtrix_II(nums, 20));
+        System.out.println(searchA2DMAtrix_II(nums, 20));
     }
 }

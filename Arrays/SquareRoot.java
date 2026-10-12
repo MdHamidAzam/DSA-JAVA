@@ -1,7 +1,7 @@
 package Arrays;
 
 public class SquareRoot {
-    public static void SquareRoot(int x) {
+    public static void squareRoot(int x) {
         if (x <= 1) {
             System.out.println(x);
             return;
@@ -25,6 +25,6 @@ public class SquareRoot {
     }
 
     public static void main(String[] args) {
-        SquareRoot(25);
+        squareRoot(25);
     }
 }

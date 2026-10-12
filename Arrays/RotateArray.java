@@ -11,12 +11,10 @@ public class RotateArray {
         }
     }
 
-    public static void RotateArray(int[] nums) {
+    public static void rotateArray(int[] nums) {
         int n = nums.length;
         int k = 3;
         k = k % n;
-        int i = 0;
-        int j = n - 1;
 
         reverse(nums, 0, n - k - 1);
         reverse(nums, n - k, n - 1);
@@ -29,6 +27,6 @@ public class RotateArray {
 
     public static void main(String[] args) {
         int nums[] = { 1, 2, 3, 4, 5, 6, 7 };
-        RotateArray(nums);
+        rotateArray(nums);
     }
 }

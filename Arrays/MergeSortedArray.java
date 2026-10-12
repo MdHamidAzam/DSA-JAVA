@@ -1,7 +1,7 @@
 package Arrays;
 
 public class MergeSortedArray {
-    public static void MergeSortedArray(int[] arr, int[] brr) {
+    public static void mergeSortedArray(int[] arr, int[] brr) {
         int m = 3;
         int n = brr.length;
 
@@ -33,6 +33,6 @@ public class MergeSortedArray {
     public static void main(String[] args) {
         int arr[] = {1,2,3,0,0,0};
         int brr[] = {2,5,6};
-        MergeSortedArray(arr, brr);
+        mergeSortedArray(arr, brr);
     }
 }

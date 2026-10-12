@@ -1,7 +1,7 @@
 package Arrays;
 
 public class TwoSum {
-    public static void TwoSum(int[] arr, int target) {
+    public static void twoSum(int[] arr, int target) {
         // int[] ans = new int[2];
 
         for(int i=0; i<arr.length; i++) {
@@ -16,6 +16,6 @@ public class TwoSum {
     }
     public static void main(String[] args) {
         int[] arr = {2, 7, 11, 15};
-        TwoSum(arr, 18);
+        twoSum(arr, 18);
     }
 }

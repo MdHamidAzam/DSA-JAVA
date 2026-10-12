@@ -1,7 +1,7 @@
 package Arrays;
 
 public class RemoveDuplicates {
-    public static void RemoveDuplicates(int[] arr) {
+    public static void removeDuplicates(int[] arr) {
         int j = 0;
         int n = arr.length;
 
@@ -15,6 +15,6 @@ public class RemoveDuplicates {
     }
     public static void main(String[] args) {
         int arr[] = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
-        RemoveDuplicates(arr);
+        removeDuplicates(arr);
     }
 }

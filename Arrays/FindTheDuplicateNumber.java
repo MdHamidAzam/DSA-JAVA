@@ -7,7 +7,7 @@ public class FindTheDuplicateNumber {
         nums[j] = temp;
     }
 
-    public static void FindTheDuplicateNumber(int[] nums) {
+    public static void findTheDuplicateNumber(int[] nums) {
 
         while (true) {
             int ele = nums[0];
@@ -21,6 +21,6 @@ public class FindTheDuplicateNumber {
 
     public static void main(String[] args) {
         int nums[] = { 1, 3, 4, 2, 2 };
-        FindTheDuplicateNumber(nums);
+        findTheDuplicateNumber(nums);
     }
 }

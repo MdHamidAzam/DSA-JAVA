@@ -1,7 +1,7 @@
 package Arrays;
 
 public class MoveZeroes {
-    public static void MoveZeroes(int[] arr) {
+    public static void moveZeroes(int[] arr) {
         // int NoOfZero = 0;
         // int n = arr.length;
 
@@ -32,7 +32,7 @@ public class MoveZeroes {
     }
     public static void main(String[] args) {
         int[] arr = {0, 1, 0, 3, 12};
-        MoveZeroes(arr);
+        moveZeroes(arr);
 
         for(int ele: arr) {
             System.out.print(ele+" ");

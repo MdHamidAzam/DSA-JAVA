@@ -1,7 +1,7 @@
 package Arrays;
 
 public class RemoveElements {
-    public static void RemoveElements(int[] arr) {
+    public static void removeElements(int[] arr) {
         int j = 0;
         int val = 2;
 
@@ -19,6 +19,6 @@ public class RemoveElements {
     }
     public static void main(String[] args) {
         int arr[] = {0,1,2,2,3,0,4,2};
-        RemoveElements(arr);
+        removeElements(arr);
     }
 }

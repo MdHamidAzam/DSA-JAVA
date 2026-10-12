@@ -2,8 +2,8 @@ package Arrays;
 
 public class EqualRowandColumnPairs {
     public static void pairCount(int[][] nums) {
-        int m = nums.length;
-        int n = nums[0].length;
+        // int m = nums.length;
+        // int n = nums[0].length;
     }
 
     public static void main(String[] args) {

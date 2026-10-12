@@ -1,7 +1,7 @@
 package Arrays;
 
 public class ArrangeCoins {
-    public static int ArrangeCoins(int n) {
+    public static int arrangeCoins(int n) {
         long low = 1;
         long high = n;
 
@@ -20,6 +20,6 @@ public class ArrangeCoins {
     }
 
     public static void main(String[] args) {
-        System.out.println(ArrangeCoins(10));
+        System.out.println(arrangeCoins(10));
     }
 }

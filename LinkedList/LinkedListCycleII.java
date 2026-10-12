@@ -32,7 +32,6 @@ public class LinkedListCycleII {
         head.next.next.next = new ListNode(2);
         head.next.next.next.next = new ListNode(5);
         head.next.next.next.next.next = head.next.next;
-        int pos = 1;
 
         System.out.println(detectCycle(head).val);
     }

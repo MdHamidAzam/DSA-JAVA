@@ -1,7 +1,7 @@
 package Arrays;
 
 public class PlusOne {
-    public static void PlusOne(int[] arr) {
+    public static void plusOne(int[] arr) {
         int i;
         for (i = arr.length - 1; i >= 0; i--) {
             if (arr[i] == 9) {
@@ -24,6 +24,6 @@ public class PlusOne {
 
     public static void main(String[] args) {
         int arr[] = {9, 9, 9, 9};
-        PlusOne(arr);
+        plusOne(arr);
     }
 }

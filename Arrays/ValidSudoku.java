@@ -1,7 +1,7 @@
 package Arrays;
 
 public class ValidSudoku {
-    public static boolean ValidSudoku(char[][] board) {
+    public static boolean validSudoku(char[][] board) {
         boolean[][] row = new boolean[9][9];
         boolean[][] col = new boolean[9][9];
         boolean[][] box = new boolean[9][9];
@@ -37,6 +37,6 @@ public class ValidSudoku {
             {'.', '.', '.', '4', '1', '9', '.', '.', '5'},
             {'.', '.', '.', '.', '8', '.', '.', '7', '9'}
         };
-        System.out.println(ValidSudoku(board));
+        System.out.println(validSudoku(board));
     }
 }

@@ -1,7 +1,7 @@
 package Arrays;
 
 public class ContainerWithMostwater {
-    public static void ContainerWithMostwater(int[] height) {
+    public static void containerWithMostwater(int[] height) {
         int n = height.length;
         int maxWater = 0;
         int lp = 0; // left pointer
@@ -25,6 +25,6 @@ public class ContainerWithMostwater {
 
     public static void main(String[] args) {
         int height[] = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
-        ContainerWithMostwater(height);
+        containerWithMostwater(height);
     }
 }

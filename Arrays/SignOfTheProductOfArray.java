@@ -25,7 +25,7 @@ Space Complexity: O(1)
 package Arrays;
 
 public class SignOfTheProductOfArray {
-    public static void SignOfTheProductOfArray(int[] nums) {
+    public static void signOfTheProductOfArray(int[] nums) {
         int n = nums.length;
         int count = 0;
 
@@ -45,6 +45,6 @@ public class SignOfTheProductOfArray {
 
     public static void main(String[] args) {
         int nums[] = { -1, -2, -3, -4, 3, 2, 1 };
-        SignOfTheProductOfArray(nums);
+        signOfTheProductOfArray(nums);
     }
 }

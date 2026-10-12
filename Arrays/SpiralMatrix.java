@@ -1,7 +1,7 @@
 package Arrays;
 
 public class SpiralMatrix {
-    public static void SpiralMatrix(int[][] matrix) {
+    public static void spiralMatrix(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
         int minr = 0;
@@ -47,6 +47,6 @@ public class SpiralMatrix {
                 { 1, 2, 3 },
                 { 4, 5, 6 },
                 { 7, 8, 9 } };
-        SpiralMatrix(matrix);
+        spiralMatrix(matrix);
     }
 }

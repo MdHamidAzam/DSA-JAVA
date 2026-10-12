@@ -1,7 +1,7 @@
 package Arrays;
 
 public class ProductOfArrayExceptSelf {
-    public static void ProductOfArrayExceptSelf(int[] nums) {
+    public static void productOfArrayExceptSelf(int[] nums) {
         int n = nums.length;
         int[] ans = new int[n];
         int suffix = 1;
@@ -23,6 +23,6 @@ public class ProductOfArrayExceptSelf {
 
     public static void main(String[] args) {
         int nums[] = { 1, 2, 3, 4 };
-        ProductOfArrayExceptSelf(nums);
+        productOfArrayExceptSelf(nums);
     }
 }

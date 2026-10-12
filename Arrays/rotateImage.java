@@ -3,7 +3,7 @@ package Arrays;
 public class RotateImage {
     public static void rotateImage(int[][] nums) {
         int m = nums.length;
-        int n = nums[0].length;
+        // int n = nums[0].length;
 
         // Transpose the matrix
         for (int i = 0; i < m; i++) {

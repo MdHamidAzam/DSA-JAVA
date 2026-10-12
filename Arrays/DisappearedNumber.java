@@ -9,7 +9,7 @@ public class DisappearedNumber {
         arr[j] = temp;
     }
 
-    public static void DisappearedNumber(int[] arr) {
+    public static void disappearedNumber(int[] arr) {
         // ArrayList<Integer> arr = new ArayList<>();
         int i = 0;
         while (i < arr.length) {
@@ -34,6 +34,6 @@ public class DisappearedNumber {
 
     public static void main(String[] args) {
         int[] arr = { 4, 3, 2, 7, 8, 2, 3, 1 };
-        DisappearedNumber(arr);
+        disappearedNumber(arr);
     }
 }
