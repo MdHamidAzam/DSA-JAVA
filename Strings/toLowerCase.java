@@ -1,6 +1,6 @@
 package Strings;
 
-public class toLowerCase {
+public class ToLowerCase {
     public static String toLowerCase(String str) {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < str.length(); i++) {
