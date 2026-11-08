@@ -61,7 +61,7 @@ The following table tracks my learning progress. Statuses reflect the current pr
 | Stack | ✅ Covered |
 | Queue | ✅ Covered |
 | HashMap / HashSet | 🔄 In Progress |
-| Binary Search | ✅ In Progress |
+| Binary Search | ✅ Covered |
 | Recursion | 🔄 In Progress |
 | Backtracking | 🔄 In Progress |
 | Trees | 🔄 In Progress |
