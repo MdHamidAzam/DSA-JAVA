@@ -70,7 +70,7 @@ The following table tracks my learning progress. Statuses reflect the current pr
 | Greedy Algorithms | 🔄 In Progress |
 | Dynamic Programming | 🔄 In Progress |
 | Graphs | 🔄 In Progress |
-| Bit Manipulation | 🔄 In Progress |
+| Bit Manipulation | ✅ In Progress |
 | Searching & Sorting | ✅ Covered |
 
 > **Status guide:** ✅ Covered · 🔄 In Progress
